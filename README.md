@@ -24,5 +24,3 @@ Reflection on Project Management Tools
 GitHub's project management features, such as milestones, issues, and project boards, streamline collaboration and ensure efficient project tracking. Milestones help teams align their work with specific objectives, fostering a sense of purpose and clarity. Issues enable detailed task descriptions, bug tracking, and feature requests, ensuring that every aspect of the project is addressed systematically. Project boards provide a visual representation of the project's status, helping team members prioritize tasks and maintain accountability.
 
 Despite these benefits, challenges like ensuring consistent updates, managing overlapping tasks, and balancing workloads among team members may arise. However, with regular communication and disciplined use of these tools, these challenges can be mitigated, leading to an organized and productive workflow.
-
-Once you’ve completed all the tasks, submit the repository link for review. If you need help with specific parts (like creating issues or linking milestones), let me know!
